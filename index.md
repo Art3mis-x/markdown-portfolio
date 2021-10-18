@@ -14,7 +14,9 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
 <br>
 
