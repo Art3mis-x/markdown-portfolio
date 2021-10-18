@@ -14,9 +14,7 @@ layout: default
 
 <br>
 
-- Task 1
-- Task 2
-- Task 3
+{% include 03-list.md %}
 
 <br>
 
