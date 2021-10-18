@@ -12,3 +12,10 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+{% include 04-list.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
